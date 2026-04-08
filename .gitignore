@@ -7,3 +7,5 @@
 !images/**/*.jpeg
 !images/**/*.png
 !images/**/*.webp
+!assets/**/*.png
+!assets/**/*.jpg
