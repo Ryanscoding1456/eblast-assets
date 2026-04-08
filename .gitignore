@@ -1,0 +1,9 @@
+# Only allow image files
+*
+!*/
+!.gitignore
+!README.md
+!images/**/*.jpg
+!images/**/*.jpeg
+!images/**/*.png
+!images/**/*.webp
