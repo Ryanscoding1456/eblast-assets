@@ -9,3 +9,4 @@
 !images/**/*.webp
 !assets/**/*.png
 !assets/**/*.jpg
+!brochures/**/*.pdf
